@@ -1,1 +1,0 @@
-# SOLID-In-Swift
